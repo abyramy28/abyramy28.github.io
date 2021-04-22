@@ -27,3 +27,8 @@
     box-shadow: none;
   }
 
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+
